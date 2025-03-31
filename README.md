@@ -62,5 +62,4 @@ Rozszerzona wersja algorytmu Euklidesa, pozwalająca znaleźć współczynniki x
 2. Upewnij się, że masz zainstalowanego Pythona (wersja 3.x).
 3. Otwórz terminal lub wiersz poleceń i uruchom skrypt:
 
-   ```sh
-   python main.py
+
